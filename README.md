@@ -1,2 +1,3 @@
 # JavaCalculadora
-4 basic operations calculator developed on java.
+Calculadora de 4 operaciones Suma,Resta,Multiplicacion y Divicion desarrollada en Java.
+
